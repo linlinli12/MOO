@@ -17,13 +17,13 @@ Using multi-objective optimization, we simultaneously fit a single model to BMP 
 ## Code Availability
 All MATLAB code used in this study is available. The repository contains scripts for parameter screening, front analysis, and result evaluation relevant to the computational modeling described in the manuscript.
 
-The folder structure includes:
+### The folder structure includes:
 
 ExpData/: Experimental data used for model fitting and validation.
 
 Function/: Utility functions used across analyses.
 
-Main scripts:
+### Main scripts:
 
 Front_analysis_WT.m and Front_analysis_chordinlike.m: Simulations and analyses of wild-type and chordin-like scenarios.
 
