@@ -15,7 +15,7 @@ Spatially distributed, nonuniform morphogen gradients play a crucial role in tis
 Using multi-objective optimization, we simultaneously fit a single model to BMP data from Drosophila and zebrafish. This enabled us to uncover essential features of the pathway that are conserved and highlight parameters responsible for interspecies differences. Our findings show that only two parametric changes are sufficient for the model to accurately reproduce experimental BMP gradients in both species. Rather than seeking predictive generalization, this cross-species modeling framework aims to enhance the interpretability and biological relevance of computational models of conserved developmental pathways.
 
 ## Code Availability
-All MATLAB code used in this study is available at [GitHub link or repository DOI]. The repository contains scripts for parameter screening, front analysis, and result evaluation relevant to the computational modeling described in the manuscript.
+All MATLAB code used in this study is available. The repository contains scripts for parameter screening, front analysis, and result evaluation relevant to the computational modeling described in the manuscript.
 
 The folder structure includes:
 
